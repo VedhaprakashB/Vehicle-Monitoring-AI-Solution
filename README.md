@@ -24,4 +24,3 @@ This project focuses on building an AI-powered vehicle monitoring system for war
 - Implemented a vehicle tracking solution to detect and flag trucks using incorrect routes, enhancing route compliance by **20%**.
 - Integrated real-time video feeds from mobile/laptop webcams to display detection results to warehouse staff.
 
-## 📁 Folder Structure
